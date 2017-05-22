@@ -1,0 +1,5 @@
+from BeautifulSoup import BeautifulSoup
+
+html = open('file1.txt', 'r')
+
+print(html)
